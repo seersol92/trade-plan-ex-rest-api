@@ -1,0 +1,2 @@
+# trade-plan-ex-rest-api
+Rest Api using NODE JS EXPRESSJS MONGODB JWT PASSPORT MIDDLEWARES
